@@ -1,0 +1,1 @@
+xcopy "C:\Users\USER\Downloads\INF*" "D:\destination\" /E /H /C /I /Y
